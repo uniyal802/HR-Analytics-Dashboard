@@ -71,6 +71,7 @@ git clone https://github.com/uniyal802/HR-Analytics-Dashboard.git
 👨‍💻 Author
 
 Gaurav Uniyal
+
 Software Developer | Full Stack Developer | Data Analytics Enthusiast
 
 If you like this project, consider giving it a ⭐ on GitHub.
